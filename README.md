@@ -1,2 +1,2 @@
 # Totinh
-#https://zvw180.github.io/nam.github.io/
+#https://zvw180.github.io/tinhyeu/
